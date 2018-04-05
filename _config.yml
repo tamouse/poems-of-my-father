@@ -1,0 +1,18 @@
+title: Poems of My Father
+email: tamara@tamouse.org
+description: >-
+  Poetry of Robert Lyle Temple (oldbob, dad, pa, uncle bob, popka,
+  grampa bob, the professor)
+
+baseurl: "/poems-of-my-father" # the subpath of your site, e.g. /blog
+url: "https://tamouse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+collections:
+  poems:
+    output: true
+
+# Build settings
+source: source
+markdown: kramdown
+plugins:
+  - jekyll-feed
