@@ -84,6 +84,7 @@ header nav a:hover {
 
 .poem-body {
   flex: 2;
+  white-space: pre;
 }
 
 .poem-footer {

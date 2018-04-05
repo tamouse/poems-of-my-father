@@ -3,25 +3,25 @@ layout: poem
 title: "Princes"
 ---
 
-what shall we call her <br />
-said the queen <br />
-upon her throne <br />
-ask the people <br />
-and the people <br />
-said the queen <br />
-upon her throne <br />
-&nbsp;&nbsp;what shall we do <br />
-to give honor <br />
-she has won <br />
-see her children <br />
-to live on--her <br />
-cherished one-- <br />
-to make us new <br />
- <br />
-she has two <br />
-she has won <br />
-to carry on <br />
-to be a king <br />
-of Britain <br />
-she has too <br />
-a royal ring <br />
+what shall we call her
+said the queen
+upon her throne
+ask the people
+and the people
+said the queen
+upon her throne
+  what shall we do
+to give honor
+she has won
+see her children
+to live on--her
+cherished one--
+to make us new
+
+she has two
+she has won
+to carry on
+to be a king
+of Britain
+she has too
+a royal ring

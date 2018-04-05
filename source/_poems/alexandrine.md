@@ -1,0 +1,73 @@
+---
+layout: poem
+title: "Alexandrine"
+---
+
+In London  a museum, tourists in the hall
+where marble men and horses
+		march along each wall.
+The flesh forms echo hills of Greece
+		their ancient source
+I'm not sure which one suffers more
+		the man or horse.
+I hear the clank, I smell the dust, I feel alone;
+here where what's most alive is carved in stone.
+My own campaigns have been preparing fields
+		for seeding.
+A boy with a boy's horse
+		that often did the leading.
+So strong though near his end;
+                        we have him for that reason,
+reliable good natured safe. In one cold season
+his final walk to pasture fails, his only fall.
+I hear my father working in the barn. I call
+Pa, the  horse is down Pa, something's wrong.
+Here, take this five-tined fork inside
+		now go along
+I take the fork but stay? You'll watch?
+              	Pa, I don't know.
+I watch. The giant legs write arcs on
+ 				sleigh-packed snow.
+A crow calls once, I point the fork,
+		mock rifle, at the tree.
+The black one waits. He thinks I clown,
+		or does not  see.
+
+I javelin the fork as he disdains reply.
+Tines twang on ice, the crow waits still.
+		The metal  cries.
+It hurts to die, Pa? Well, he dreams
+		he logs old trails.
+Or brings in loads of hay, Pa?
+                     Sunshine in the bales.
+Or like a colt again, Pa?
+                     Prancing in new light.
+Reliving  all those years, Pa?
+                    Now, that may be right.
+The death of this old horse
+		can surely have no wrong.
+Long seasons he has worked to die
+		where he belongs.
+He is not hurried off to battle there to wonder
+at fading light new pain
+		and feeling man-made thunder,
+red bubbles in the nose, hard breathing,
+		belly spilling,
+unloved yet naked to obedience and willing,
+like boys eighteen who although dressed
+		to soldier far
+must question, turning cold alone,
+		where is the star.
+His feet aren't moving, Pa. We bury him?
+Well, no, that only makes the failing processes
+ 		go slow.
+
+We'll skid him like a log to brush
+		where  he'll be laid.
+Perhaps we'll stumble on clean bones
+		in August shade.
+Come home to supper.  It's all easier
+		when you're old.
+Come home, come home.
+Don't just stand there, boy.
+                       It's cold.
