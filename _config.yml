@@ -1,7 +1,7 @@
 title: Poems of My Father
 email: tamara@tamouse.org
 description: >-
-  Poetry of Robert Lyle Temple (oldbob, dad, pa, uncle bob, popka,
+  Poetry of Robert Lyle Temple, 1928-2018 (oldbob, dad, pa, uncle bob, popka,
   grampa bob, the professor)
 
 baseurl: "/poems-of-my-father" # the subpath of your site, e.g. /blog
@@ -16,3 +16,7 @@ source: source
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+exclude:
+  - .#*
+  - \#*#

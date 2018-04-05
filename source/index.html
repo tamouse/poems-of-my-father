@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="poem-index">
+  {% for poem in site.poems %}
+  <div>
+    <a href="{{site.baseurl}}{{poem.url}}">
+      {{ poem.title }}
+    </a>
+  </div>
+  {% endfor %}
+</div>
