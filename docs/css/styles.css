@@ -89,6 +89,8 @@ header nav a:hover {
   font-size: 0.9em;
   padding: 0 2em;
   text-align: center;
+  color: #999;
+  font-style: italic;
 }
 
 .poem-index {
