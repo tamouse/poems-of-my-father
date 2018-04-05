@@ -13,6 +13,7 @@ collections:
 
 # Build settings
 source: source
+destination: docs
 markdown: kramdown
 plugins:
   - jekyll-feed
