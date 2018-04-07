@@ -97,3 +97,23 @@ one pixel at a time
 crib back to the attic
 after all the waiting time
 no sleep
+
+*haiku 19  of  4/18/97*
+no one trims this grass
+all the folks have gone away
+except one who died
+
+*haiku 20  of  4/18/97*
+airplane overhead
+snuggle remember far places
+under the blankets
+
+*haiku 1 of 4/11*
+Loss of central vision.
+child asks have to wear glasses
+No such luck.
+
+*haiku 2 of 4/11*
+Macular degeneration
+will there be a treatment
+More ozone.
