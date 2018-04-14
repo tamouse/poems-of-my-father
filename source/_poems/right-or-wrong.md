@@ -1,11 +1,12 @@
 ---
 layout: poem
 title: "Right or Wrong"
----
-
-"At least fourteen of the names...
- were names of living men"
+footer: |
+  "At least fourteen of the names... were names of living men"
    -- New Yorker, Nov.30, 1992, p.41
+
+
+---
 
 A special trip to Washington.  A chill
 goes through him as he reads the wall
