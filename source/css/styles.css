@@ -121,6 +121,10 @@ footer a:hover {
 .poem-body p {
   white-space: pre;
 }
+.poem-body p img {
+  max-width: 100%;
+  width: 100%;
+}
 
 .poem-body p a:hover {
   color: #333399;

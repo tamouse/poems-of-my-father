@@ -17,3 +17,7 @@ The great pine groves, the cedar towers
 where a million people came each year--
 Wiped out--whole mountainsides burned clear.
 Then came the flowers.
+
+
+
+![](./following-fire.jpg)
